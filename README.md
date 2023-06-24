@@ -13,7 +13,7 @@ To run the ChatNow website locally, you'll need to have Node.js and npm installe
 
 - Clone this repository to your local machine.
 - Install the dependencies by running npm install in the project directory.
-- Start the server by running npm start or node server.js.
+- Start the server by running npm run dev.
 - Open a web browser and navigate to http://localhost:3000.
 - You should now be able to use the ChatNow website locally and start chatting with others.
 
